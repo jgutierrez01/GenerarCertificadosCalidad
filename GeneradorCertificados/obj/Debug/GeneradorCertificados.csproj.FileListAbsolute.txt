@@ -1,0 +1,52 @@
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.csprojResolveAssemblyReference.cache
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.csproj.GenerateResource.Cache
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.Properties.Resources.resources
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.Form1.resources
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.config
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.manifest
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.application
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.pdb
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe.manifest
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.application
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe
+C:\Users\Sysgo01\Documents\Visual Studio 2013\Projects\GeneradorCertificados\GeneradorCertificados\obj\Debug\GeneradorCertificados.pdb
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.config
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.manifest
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.application
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.pdb
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.csprojResolveAssemblyReference.cache
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.Form1.resources
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.Properties.Resources.resources
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.csproj.GenerateResource.Cache
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe.manifest
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.application
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.pdb
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.config
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.manifest
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.application
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.pdb
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.csprojResolveAssemblyReference.cache
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.Form1.resources
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.Properties.Resources.resources
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.csproj.GenerateResource.Cache
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe.manifest
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.application
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe
+C:\Users\HasNoName\Desktop\GeneradorCertificados CALIDAD2017\GeneradorCertificados CALIDAD\GeneradorCertificados\obj\Debug\GeneradorCertificados.pdb
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.config
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe.manifest
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.application
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.exe
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\bin\Debug\InstallerCorrecto\GeneradorCertificados.pdb
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\bin\Debug\InstallerCorrecto\Microsoft.SqlServer.Types.dll
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\obj\Debug\GeneradorCertificados.Form1.resources
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\obj\Debug\GeneradorCertificados.Properties.Resources.resources
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\obj\Debug\GeneradorCertificados.csproj.GenerateResource.Cache
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe.manifest
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\obj\Debug\GeneradorCertificados.application
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\obj\Debug\GeneradorCertificados.exe
+C:\Users\Fabian Gutierrez\Source\Repos\GenerarCertificadosCalidad\GeneradorCertificados\obj\Debug\GeneradorCertificados.pdb
